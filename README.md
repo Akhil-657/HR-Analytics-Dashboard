@@ -41,6 +41,11 @@ To identify attrition patterns across departments, age groups, gender, and educa
 └── README.md
 ```
 
+## 📁 Project Files
+- 📄 [HR DASHBOARD.pbix](https://github.com/Akhil-657/HR-Analytics-Dashboard/blob/main/HR%20DASHBOARD.pbix) : Power BI dashboard file
+- 🖼️ `HR_Analytics_Dashboard.png` : Dashboard screenshot
+- 📝 `README.md` : Project documentation
+
 ## 🚀 How to Use
 1. Clone this repository
 2. Open `HR_Analytics.pbix` in Power BI Desktop
