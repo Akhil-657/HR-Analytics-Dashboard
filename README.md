@@ -52,4 +52,4 @@ To identify attrition patterns across departments, age groups, gender, and educa
 **Akhilesh Yadav**
 Aspiring Data Analyst | SQL • Python • Excel • Power BI
 📍 Mumbai, India
-🔗 [LinkedIn](your-linkedin-link) | [GitHub](your-github-link)
+🔗 [LinkedIn](https://www.linkedin.com/in/akhilesh-yadav-5797b0388/) | [GitHub](https://github.com/YOUR-USERNAME)
