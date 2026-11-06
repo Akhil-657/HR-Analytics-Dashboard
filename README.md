@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard that analyzes employee attrition and workforce demographics to help HR teams understand **who is leaving, from where, and why**.
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
-
 ## 🎯 Objective
 To identify attrition patterns across departments, age groups, gender, and education fields, so that HR can make data-driven retention decisions.
 
